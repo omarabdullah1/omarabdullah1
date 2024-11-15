@@ -1,11 +1,96 @@
+### Hey there, I'm  Omar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-<img alt="I am programmer" src="https://github.com/omarabdullah1/omarabdullah1/blob/87c8883f2a3d33211dd2620f1cd747969e1a6757/i%20am%20a%20programmer.jpg" width="250" title="I am programmer"/> 
-Hi, I'm Omar:
+<div align="center">
+<p align="center">Let's connect!</p>
 
-* Experienced Software Engineer adept in designing, installing, testing and maintaining software systems. Proficient in various platforms, languages, and mobile development. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects and collaborate as part of a productive team.
+<a href="www.linkedin.com/in/omar-abdullah1">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="mailto:omar.abdullah9825@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_rtl_r5.png" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/omar-abdullah-44990021b/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png"
-     height="40"  alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-<a href="https://github.com/omarabdullah1"><img src="https://miro.medium.com/v2/resize:fit:1125/1*biIy42Cn4Bnu0IkpUW1Zew.png" height="40" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%; background-color:White;" ></a></p>
+<a href="https://@omar.abdullah9825/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
+<a href="https://www.facebook.com/Omar.A.Hassann/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/17523152/omar-abdullah">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+<br>
+
+<!-- <div align="center">
+<p align="center">Nominate me as GitHub Star ⭐</p>
+
+<a href="https://stars.github.com/nominate/">
+    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
+</a>
+
+</div> -->
+
+
+### A Student, Developer & Writer
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+#### Talking about my stuff:
+
+- 👉 Leading [Flutter LevleUpEsg][Mobile Team]
+- 🙋‍♂️ ex Mobile Lead [WaveMakers]
+- 💻 The tech I'm interested in is Flutter/IOT/AR etc.
+- ✍ Technical writer at [Medium][medium]
+<!--- 📱 First Live app on Play Store [NEXT GEN ACADEMEY][NEXTGEN] -->
+- ✨ I'm learning Flutter, Web scrapping, Automation etc.
+<!--- - 📄 Live [Portfolio][profile] -->
+
+
+<!-- ### Languages & Tools
+
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
+
+<div align="center">
+<p align="center">🛠 Tools & Technology</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Node-72ac5a?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+
+</div>
+
+<br>
+
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omarabdullah1&theme=gotham)](https://github.com/omarabdullah1/github-readme-stats)
+
+
+
+
+Open Source Contributor from <b>EGYPT<b> ❤️ 
+
+![](https://visitor-badge.glitch.me/badge?page_id=omarabdullah1.omarabdullah1)
+
+
+[quran]: https://github.com/omarabdullah1/Elmanassa
+<!--
+[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
+[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
+[profile]: https://mhmz.dev
+[medium]: https://mhmzdev.medium.com/
+[dribbble]: https://dribbble.com/mhmzdev
+-->
