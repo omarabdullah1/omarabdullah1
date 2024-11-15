@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="www.linkedin.com/in/omar-abdullah1">
+<a href="https://www.linkedin.com/in/omar-abdullah1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
