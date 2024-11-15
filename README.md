@@ -38,7 +38,7 @@
 
 #### Talking about my stuff:
 
-- 👉 Leading [Flutter LevleUpEsg][Mobile Team]
+- 👉 Leading [LevleUpEsg][Mobile Team]
 - 🙋‍♂️ ex Mobile Lead [WaveMakers]
 - 💻 The tech I'm interested in is Flutter/IOT/AR etc.
 - ✍ Technical writer at [Medium][medium]
