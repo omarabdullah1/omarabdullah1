@@ -81,9 +81,9 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omarabdullah1&theme=gotham)](https://github.com/omarabdullah1/github-readme-stats)
+<!--[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omarabdullah1&theme=gotham)](https://github.com/omarabdullah1/github-readme-stats)-->
 
-
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarabdullah1)](https://github.com/omarabdullah1/github-readme-stats)
 
 
 Open Source Contributor from <b>EGYPT<b> ❤️ 
