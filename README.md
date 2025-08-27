@@ -3,8 +3,8 @@
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://your-portfolio-link.com](https://omarabdullah1.github.io/my_website.io/">
-    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://omarabdullah1.github.io/my_website.io/">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/omar-abdullah1/">
