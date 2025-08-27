@@ -42,7 +42,8 @@
 
 #### Talking about my stuff:
 
-- 👉 Leading [LevleUpEsg][Mobile Team]
+- 👉 [RootCo][Mobile Team]
+- 🙋‍♂️ Leading [LevleUpEsg][Mobile Team]
 - 🙋‍♂️ ex [WaveMakers][Mobile Team]
 - 💻 The tech I'm interested in is Flutter/IOT/AR etc.
 - ✍ Technical writer at [Medium][medium]
